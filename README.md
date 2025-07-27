@@ -7,3 +7,6 @@ Practica GIT - plugin para reemplazar texto
 -[@Yecid](https://www.gibhub.com/yct)
 
 -[@Bart Simpson](http://www.github.com/bart)
+-[@YCT](https://www.gibhub.com/yct)
+
+-[@Bart](http://www.github.com/bart)
